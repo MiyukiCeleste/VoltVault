@@ -7,16 +7,18 @@
     <link rel="stylesheet" href="voltvault.css">
     <link rel="stylesheet" href="home.css">
 
+    <link rel="shortcut icon" href="img/icon.png" type="image/x-icon">
+
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Gasoek+One&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Gasoek+One&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap" rel="stylesheet">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
 </head>
 <body>
 
     <nav class="navbar navbar-expand-lg" style="background-color:#141414;">
         <div class="container-fluid">
-          <a class="navbar-brand" href="#"><img src="./img/voltlogo.jpg" height="40px"></a>
+          <a class="navbar-brand" href="voltvault.php"><img src="./img/voltlogo.jpg" height="40px"></a>
 
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>

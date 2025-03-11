@@ -108,6 +108,7 @@ footer{
     grid-template-columns: repeat(auto-fit, minmax(500px, 1fr));
     background:#141414;
     color:#FFFFFF;
+    font-family:"Montserrat";
 }
 
 footer ul li{
@@ -117,12 +118,22 @@ footer ul li{
     font-weight:550;
 }
 
-footer div{
-    padding:3.4vw 5vw;
+footer .phot{
+    padding:3.4vw 2vw 1vw 5vw;
+}
+
+footer #contact{
+    padding:3.4vw 5vw 1vw 5vw;
+}
+
+footer .info{
+    padding:3.4vw 5vw 1.5vw 5vw;
 }
 
 footer .copyright{
     font-style:italic;
+    float:right;
+    padding:1vw 4vw !important;
 }
 
 footer .info li a{

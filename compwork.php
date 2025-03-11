@@ -3,20 +3,22 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Computer & Workstation</title>
     <link rel="stylesheet" href="voltvault.css">
     <link rel="stylesheet" href="cw.css">
 
+    <link rel="shortcut icon" href="./img/icon.png" type="image/x-icon">
+
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Gasoek+One&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Gasoek+One&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap" rel="stylesheet">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
 </head>
 <body>
     <nav class="navbar navbar-expand-lg" style="background-color:#141414;">
         <div class="container-fluid">
           <a class="navbar-brand" href="voltvault.php"><img src="./img/voltlogo.jpg" height="40px"></a>
-php
+
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
           </button>
@@ -54,7 +56,7 @@ php
     <div class="cont">
         <h2>Computer & Workstation</h2>
         <div class="cardcont">
-          <a href="./compacc/p01.html">
+          <a href="./compacc/p01.php">
             <div class="card">
                 <img src="./pimg/reddragon.jpg">
                 <div class="cardcontent">
@@ -72,7 +74,7 @@ php
             </div>
           </a>
   
-          <a href="catpaku item5 page.html">
+          <a href="">
             <div class="card">
                 <img src="./pimg/gjdq10.png">
                 <div class="cardcontent">
@@ -81,49 +83,67 @@ php
             </div>
           </a>
   
-          <a href="catpaku item5 page.html">
+          <a href="">
             <div class="card">
-                <img src="../3.making.online.market/image/hsr pc.png">
+                <img src="./pimg/logic310webcam.jpg">
                 <div class="cardcontent">
-                    <h3>Desktop Camera</h3>
+                    <h3>Logitech <br> Webcam C310 HD</h3>
                 </div>
             </div>
           </a>
   
               <!------------------------------------->
   
-          <a href="catpaku item5 page.html">
+          <a href="">
               <div class="card">
-                  <img src="../3.making.online.market/image/hsr pc.png">
+                  <img src="./pimg/logmousepad.png">
                   <div class="cardcontent">
-                      <h3>Mousepad</h3>
+                      <h3>Logitech Mousepad Studio Series Graphite</h3>
                   </div>
               </div>
           </a>
   
-          <a href="catpaku item5 page.html">
+          <a href="">
             <div class="card">
-                <img src="../3.making.online.market/image/hsr pc.png">
+                <img src="./pimg/twf37webcam.jpg">
                 <div class="cardcontent">
-                    <h3>HSR Phone Charms</h3>
+                    <h3>Taffware Webcam <br> F37 HD Full</h3>
                 </div>
             </div>
           </a>
   
-          <a href="catpaku item5 page.html">
+          <a href="">
               <div class="card">
-                  <img src="../3.making.online.market/image/hsr pc.png">
+                  <img src="./pimg/gjdqkeyboard.png">
                   <div class="cardcontent">
-                      <h3>HSR Phone Charms</h3>
+                      <h3>Smart GOOJODOQ Keyboard for iPad Pro</h3>
                   </div>
               </div>
           </a>
   
           <a href="catpaku item5 page.html">
             <div class="card">
-                <img src="../3.making.online.market/image/hsr pc.png">
+                <img src="./pimg/xppen16.png">
                 <div class="cardcontent">
-                    <h3>HSR Phone Charms</h3>
+                    <h3>XPPen Artist Pro 16TP (4K) Pen Display 15.6 inch</h3>
+                </div>
+            </div>
+          </a>
+
+          <a href="catpaku item5 page.html">
+            <div class="card">
+                <img src="./pimg/robotusbhub.png">
+                <div class="cardcontent">
+                    <h3>ROBOT USB Hub Adapter HT360 Gray</h3>
+                </div>
+            </div>
+          </a>
+
+          <a href="catpaku item5 page.html">
+            <div class="card">
+                <img src="./pimg/keyboardcleaner.png">
+                <div class="cardcontent">
+                    <h3>Keyboard Cleaning Brush 7 in 1</h3>
                 </div>
             </div>
           </a>
